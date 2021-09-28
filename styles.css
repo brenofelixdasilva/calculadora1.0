@@ -13,13 +13,12 @@ html, body{
     align-items: center;
 }
 
-input{
+#input{
     border-radius: 15px;
     width: 245px;
     height: 46px;
     margin: 13px;
-    background-color:#BCD1C0;
-   
+    background-color:#BCD1C0 !important;
 }
 
 .buttons{
